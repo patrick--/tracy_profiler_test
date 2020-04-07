@@ -1,0 +1,4 @@
+libcapstone-dev
+libfreetype6-dev
+libglfw3
+libgtk2.0-dev
